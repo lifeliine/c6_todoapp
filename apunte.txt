@@ -1,0 +1,2 @@
+* Iniciamos el projecto con npm init -y para crear un json por defecto
+* Installamos npm install inquirer libreria para seleccionar opciones en la terminal
