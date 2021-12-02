@@ -4,3 +4,5 @@
 *Capas de la app
 models : donde van las clases
 repositories : la que se comunica con la base de datos
+helpers: para poder interactuar
+    
